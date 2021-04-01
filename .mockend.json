@@ -1,13 +1,62 @@
-{
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+[
+  {
+    "name": "Hoppy IPA",
+    "image": "https://www.eebriatrade.com/media/products/34142/20210219142451994/450x450.jpg",
+    "style": "beer",
+    "price": 10.99
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  {
+    "name": "Double IPA",
+    "image": "https://www.eebriatrade.com/media/products/32605/20201207133743392/450x450.jpg",
+    "style": "beer",
+    "price": 12.99
+  },
+  {
+    "name": "Dry Cider",
+    "image": "https://www.eebriatrade.com/media/products/11092/20180615115602857/450x450.jpg",
+    "style": "cider",
+    "price": 6.99
+  },
+  {
+    "name": "Wheat Beer",
+    "image": "https://www.eebriatrade.com/media/products/34954/20210326190214469/450x450.jpg",
+    "style": "beer",
+    "price": 7.49
+  },
+  {
+    "name": "Porter",
+    "image": "https://www.eebriatrade.com/media/products/31534/20201101203923206/450x450.jpg",
+    "style": "beer",
+    "price": 11.99
+  },
+  {
+    "name": "Sweet Cider",
+    "image": "https://www.eebriatrade.com/media/products/10520/20180509131912784/450x450.jpg",
+    "style": "cider",
+    "price": 6.49
+  },
+  {
+    "name": "Fruit Cider",
+    "image": "https://www.eebriatrade.com/media/products/15448/20200923121835151/450x450.jpg",
+    "style": "cider",
+    "price": 7.49
+  },
+  {
+    "name": "Lager",
+    "image": "https://www.eebriatrade.com/media/products/34654/20210316120923143/450x450.jpg",
+    "style": "beer",
+    "price": 8.99
+  },
+  {
+    "name": "Medium Cider",
+    "image": "https://www.eebriatrade.com/media/products/3277/20191221114435910/450x450.jpg",
+    "style": "cider",
+    "price": 7.99
+  },
+  {
+    "name": "Farmhouse Scrumpy",
+    "image": "https://www.eebriatrade.com/media/products/30088/20200918124850531/450x450.jpg",
+    "style": "cider",
+    "price": 2.99
   }
-}
+]
