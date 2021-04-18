@@ -3,5 +3,4 @@ collections:
 - netbox.netbox
 - arubanetworks.aos_switch
 - cisco.ios
-- nl2go.cloudflare_dns
 
