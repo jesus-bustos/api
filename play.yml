@@ -1,0 +1,5 @@
+- name: Collections
+  hosts: localhost
+  tasks: 
+    - name: Hello World
+      debug:
