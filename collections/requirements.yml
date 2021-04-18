@@ -1,0 +1,6 @@
+---
+collections:
+- netbox.netbox
+- arubanetworks.aos_switch
+- cisco.ios
+- community.general.cloudflare_dns
